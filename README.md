@@ -1,5 +1,5 @@
 
-# Questões de Juiz online (Codeforces, AtCoder)
+# Cat Snuke and a Voyage
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Grafos 1 (DFS, BFS)<br>
@@ -43,6 +43,8 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: JS<br>
+
+- Ao baixar o projeto, é possível executa-lo via browser
 
 ## Uso 
 - Link gitpages: 
