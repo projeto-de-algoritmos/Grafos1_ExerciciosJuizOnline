@@ -11,27 +11,43 @@
 | 19/0134810  |  Shaíne Aparecida Cardoso de Oliveira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+No Reino Takahashi, existe um arquipélago de
+Ilhas N, chamadas Ilhas Takahashi. Por conveniência, vamos chamá-los de Ilha
+1, Ilha
+2, ..., Ilha
+N.
+
+Há
+M tipos de serviços regulares de barco entre estas ilhas. Cada serviço conecta duas ilhas. O
+i-ésimo serviço conecta Ilha
+a
+eu
+​
+  e Ilha
+b
+eu
+​
+ .
+
+Cat Snuke está na ilha
+1 agora e quer ir para a Ilha
+N. No entanto, descobriu-se que não há serviço de barco da Ilha
+1 para a ilha
+N, então ele quer saber se é possível ir para a Ilha
+N usando dois serviços de barco.
+
+Ajudem-no.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: C++<br>
+**Linguagem**: JS<br>
 
 ## Uso 
-- Clone este repositório
-- Abra um terminal no diretório do arquivo
-- Compile o código com `g++ -o <nome-desejado-do-executavel> <nome-do-arquivo.cpp>`
-- Execute o código com `./<nome-desejado-do-executavel>` 
+- Link gitpages: 
 
 
-## Links dos problemas
--
--
--
--
--
 
 
 
