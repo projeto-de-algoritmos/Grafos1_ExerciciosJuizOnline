@@ -11,7 +11,7 @@
 | 19/0134810  |  Shaíne Aparecida Cardoso de Oliveira |
 
 ## Sobre 
-O repositório contém soluções para algumas questões de juíz online do AtCoder e BeeCrowd
+O repositório contém soluções para algumas questões de juíz online do AtCoder, Codeforces e BeeCrowd
 
 - [Peaks](https://atcoder.jp/contests/abc166/tasks/abc166_c)
 - [Come and Go](https://www.beecrowd.com.br/judge/en/problems/view/1128)
