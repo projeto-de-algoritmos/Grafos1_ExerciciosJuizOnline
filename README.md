@@ -20,14 +20,21 @@ O repositório contém soluções para algumas questões de juíz online do AtCo
 
 ## Screenshots e Apresentações
 - Badge
+  
 ![Badge](img/badge.jpeg)
 - Peaks
+  
 ![Peaks](img/peaks.jpeg)
 - Come and go
+  
 ![Come and go](img/come_and_go.jpeg)
 - Rodovia
+  
 ![Rodovia](img/rodovia.jpeg)
 
+## Link das apresentações
+
+**Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta [apresentacoes](https://github.com/projeto-de-algoritmos/Grafos1_ExerciciosJuizOnline/tree/master/apresentacoes).**
 
 - [Apresentação dos problemas Peaks e Badge](https://www.youtube.com/watch?v=utePM19SvRA)
 - [Apresentação dos problemas Come and go e Rodovia](https://youtu.be/bEWVVstD5ik)
