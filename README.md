@@ -1,7 +1,7 @@
 
 # Exercícios Resolvidos
 
-**Número da Lista**: X<br>
+
 **Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
@@ -15,11 +15,24 @@ O repositório contém soluções para algumas questões de juíz online do AtCo
 
 - [Peaks](https://atcoder.jp/contests/abc166/tasks/abc166_c)
 - [Come and Go](https://www.beecrowd.com.br/judge/en/problems/view/1128)
-- [G of Graph](https://www.beecrowd.com.br/judge/en/problems/view/3144)
+- [Rodovia](https://www.beecrowd.com.br/judge/en/problems/view/2429)
 - [Badge](https://codeforces.com/problemset/problem/1020/B)
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Screenshots e Apresentações
+- Badge
+![Badge](img/badge.jpeg)
+- Peaks
+![Peaks](img/peaks.jpeg)
+- Come and go
+![Come and go](img/come_and_go.jpeg)
+- Rodovia
+![Rodovia](img/rodovia.jpeg)
+
+
+- [Apresentação dos problemas Peaks e Badge](https://www.youtube.com/watch?v=utePM19SvRA)
+- [Apresentação dos problemas Come and go e Rodovia](https://youtu.be/bEWVVstD5ik)
+
+
 
 ## Instalação 
 **Linguagem**: C++<br>
